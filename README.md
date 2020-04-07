@@ -19,7 +19,10 @@ The .csv file contain several information about wines.
     - points: points assigned from the taster 
     
 ## Question 1
+Some winemakers are asking to buy their wines, which are not present in your dataset. how would you exploit the data you have to estimate the best price to buy new wines?
 
+## Question 2
+Since you will have customers from different countries, you want to create a wine list that presents wines from different parts of the world. How could you identify which areas are similar for production? Select best wine from such areas to create best wine list. List should have wines in different price range.
 
 
 ### File structure of the project 
