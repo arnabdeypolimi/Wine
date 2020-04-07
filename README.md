@@ -2,10 +2,24 @@
 
 The dataset is taken from [kaggle](https://www.kaggle.com/zynicide/wine-reviews). For more details about the data visit the kaggle link.
 
+## Dataset details
+The .csv file contain several information about wines.
 
-![alt text](https://github.com/arnabdeypolimi/Wine/blob/master/image1.PNG)
+- wine information:
+    - Title: name of the wine
+    - variety: variety of grapes used to make that wine
+    - designation: name of the wine field
+    - country: country of production
+    - province: province of production
+    - price: price of the wine
+    - winery: winery that produces that wine
+- tasting:
+    - taster name: name of the taster
+    - description: description of the wine
+    - points: points assigned from the taster 
+    
+## Question 1
 
-![alt text](https://github.com/arnabdeypolimi/Wine/blob/master/image2.PNG)
 
 
 ### File structure of the project 
